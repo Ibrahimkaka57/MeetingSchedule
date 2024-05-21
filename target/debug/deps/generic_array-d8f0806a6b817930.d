@@ -1,0 +1,11 @@
+C:\Users\NITDA\room_schedule\target\debug\deps\libgeneric_array-d8f0806a6b817930.rmeta: C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\lib.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\hex.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\impls.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\arr.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\functional.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\iter.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\sequence.rs
+
+C:\Users\NITDA\room_schedule\target\debug\deps\generic_array-d8f0806a6b817930.d: C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\lib.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\hex.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\impls.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\arr.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\functional.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\iter.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\sequence.rs
+
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\lib.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\hex.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\impls.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\arr.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\functional.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\iter.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\generic-array-0.12.4\src\sequence.rs:

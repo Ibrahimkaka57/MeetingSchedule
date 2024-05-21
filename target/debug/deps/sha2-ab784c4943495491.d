@@ -1,0 +1,12 @@
+C:\Users\NITDA\room_schedule\target\debug\deps\libsha2-ab784c4943495491.rmeta: C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\lib.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\consts.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256_utils.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\NITDA\room_schedule\target\debug\deps\libsha2-ab784c4943495491.rlib: C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\lib.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\consts.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256_utils.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\NITDA\room_schedule\target\debug\deps\sha2-ab784c4943495491.d: C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\lib.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\consts.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256_utils.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512.rs C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512_utils.rs
+
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\lib.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\consts.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha256_utils.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512.rs:
+C:\Users\NITDA\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.8.2\src\sha512_utils.rs:
